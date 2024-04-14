@@ -1,6 +1,6 @@
 # Course Assignment: Workflow Module
 
-This project is deployed on Vercel at [https://social-media-client-msiksnis.vercel.app/](https://social-media-client-msiksnis.vercel.app/).
+[![Deploy static content to Pages](https://github.com/msiksnis/social-media-client-msiksnis/actions/workflows/pages.yml/badge.svg)](https://github.com/msiksnis/social-media-client-msiksnis/actions/workflows/pages.yml)
 
 ## Submission of the Course Assignment for the Workflow module
 
